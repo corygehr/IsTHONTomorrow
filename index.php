@@ -1,10 +1,33 @@
+<!--
+          ^
+         / \
+        /   \
+       /     \
+      /\     /\
+     /  \   /  \
+    /     v     \
+    \    / \    /
+     \  /   \  /
+      \/     \/
+       \     /
+        \   /
+         \ /
+          v
+
+    ============  ====    ====  -------------  
+    ============  ====    ====  -----   -----  
+        ====      ============  ----     ----  
+        ====      ============  ----     ---- 
+        ====      ====    ====  -----   -----  
+        ====      ====    ====  -------------  
+-->
 <!DOCTYPE html>
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Is THON Tomorrow?</title>
 	<meta name="description" content="Contains the answer to the popular question -- Is THON really tomorrow?">
-	<meta name="keywords" content="Penn State Dance Marathon, Penn State, PSU, THON, pediatric cancer, Penn State Hershey, Four Diamonds Fund">
+	<meta name="keywords" content="Penn State Dance Marathon, Penn State, PSU, THON, pediatric cancer, Penn State Hershey, Four Diamonds Fund, Four Diamonds">
 	<meta charset="UTF-8">
 	<meta property="og:title" content="Is THON Tomorrow?">
 	<meta property="og:description" content="Is THON Really Tomorrow?">
