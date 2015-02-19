@@ -52,6 +52,9 @@
 <body>
 	<h2>Is THON Tomorrow?</h2>
 <?php
+	// Set timezone for Azure Server
+	date_default_timezone_set('America/New_York');
+
 	$thonDates = array('2015-02-20', '2015-02-21', '2015-02-22');
 
 	if(date('Y-m-d') == '2015-02-19')
