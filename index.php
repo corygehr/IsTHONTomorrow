@@ -63,7 +63,7 @@
 	}
 	elseif(in_array(date('Y-m-d'), $thonDates))
 	{
-		echo "<h1>No... THON is happening RIGHT NOW!</h1><p><a href='webcast.thon.org'>Click here to view the Live Stream</a></p>";
+		echo "<h1>No... THON is happening RIGHT NOW!</h1><p><a href='http://webcast.thon.org/'>Click here to view the Live Stream</a></p>";
 	}
 	else
 	{
