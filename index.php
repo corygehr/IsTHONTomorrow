@@ -55,9 +55,9 @@
 	// Set timezone for Azure Server
 	date_default_timezone_set('America/New_York');
 
-	$thonDates = array('2015-02-20', '2015-02-21', '2015-02-22');
+	$thonDates = array('2016-02-19', '2016-02-20', '2016-02-21');
 
-	if(date('Y-m-d') == '2015-02-19')
+	if(date('Y-m-d') == '2016-02-18')
 	{
 		echo "<h1>YES! Seriously!</h1>";
 	}
@@ -75,7 +75,7 @@
 		Donate Now page <a href="http://donate.thon.org" target="_blank">here</a> to help Penn State students find a cure for pediatric cancer.
 	</p>
 	<p>
-		<iframe width="560" height="315" src="//www.youtube.com/embed/rCL-sCf0LI0" frameborder="0" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/z-Bk09yXVBo" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
 		<a href="http://www.thon.org/" target="_blank">THON.org Homepage</a>
