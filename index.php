@@ -58,9 +58,9 @@
 	// Set timezone for Azure Server
 	date_default_timezone_set('America/New_York');
 
-	$thonDates = array('2016-02-19', '2016-02-20', '2016-02-21');
+	$thonDates = array('2017-02-17', '2017-02-18', '2017-02-19');
 
-	if(date('Y-m-d') == '2016-02-18')
+	if(date('Y-m-d') == '2016-02-16')
 	{
 		echo "<h1>YES! Seriously!</h1>";
 	}
